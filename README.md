@@ -1,5 +1,5 @@
 # my-first-project_01-135252-059
-My first GitHub repository
+My first GitHub project a beta website
 
 # My First Project 
 ## About 
